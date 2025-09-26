@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sample-1",
+    "source": "sample",
+    "title": "Senior Python Engineer",
+    "company": "Acme Analytics",
+    "location": "Remote - US",
+    "salary_min": 130000,
+    "salary_max": 160000,
+    "remote_type": "remote",
+    "skills": ["python", "fastapi", "sql", "aws"],
+    "culture": ["remote-first", "inclusive"],
+    "url": "https://example.com/jobs/acme-python",
+    "notes": "Focuses on data pipeline automation with a fully remote culture"
+  },
+  {
+    "id": "sample-2",
+    "source": "sample",
+    "title": "Platform Engineer",
+    "company": "Nimbus Cloud",
+    "location": "Seattle, WA",
+    "salary_min": 150000,
+    "salary_max": 190000,
+    "remote_type": "hybrid",
+    "skills": ["python", "kubernetes", "aws", "terraform"],
+    "culture": ["innovation", "growth"],
+    "url": "https://example.com/jobs/nimbus-platform",
+    "notes": "Hybrid schedule with emphasis on infrastructure-as-code"
+  },
+  {
+    "id": "sample-3",
+    "source": "sample",
+    "title": "Machine Learning Engineer",
+    "company": "Visionary Labs",
+    "location": "Austin, TX",
+    "salary_min": 140000,
+    "salary_max": 175000,
+    "remote_type": "remote",
+    "skills": ["python", "ml", "nlp", "docker"],
+    "culture": ["mission-driven", "inclusive"],
+    "url": "https://example.com/jobs/visionary-ml",
+    "notes": "Applied ML team tackling NLP problems for healthcare"
+  }
+]
